@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E070EF54-AB16-4A0F-8B93-02711F428BE1}|Framework.vcxproj|C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\Scenes\\SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E070EF54-AB16-4A0F-8B93-02711F428BE1}|Framework.vcxproj|solutionrelative:Scenes\\SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E070EF54-AB16-4A0F-8B93-02711F428BE1}|Framework.vcxproj|C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E070EF54-AB16-4A0F-8B93-02711F428BE1}|Framework.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E070EF54-AB16-4A0F-8B93-02711F428BE1}|Framework.vcxproj|C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\Framework\\Framework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E070EF54-AB16-4A0F-8B93-02711F428BE1}|Framework.vcxproj|solutionrelative:Framework\\Framework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E070EF54-AB16-4A0F-8B93-02711F428BE1}|Framework.vcxproj|C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\Scenes\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E070EF54-AB16-4A0F-8B93-02711F428BE1}|Framework.vcxproj|solutionrelative:Scenes\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E070EF54-AB16-4A0F-8B93-02711F428BE1}|Framework.vcxproj|C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\UiHud.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E070EF54-AB16-4A0F-8B93-02711F428BE1}|Framework.vcxproj|solutionrelative:UiHud.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E070EF54-AB16-4A0F-8B93-02711F428BE1}|Framework.vcxproj|C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\UiHud.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E070EF54-AB16-4A0F-8B93-02711F428BE1}|Framework.vcxproj|solutionrelative:UiHud.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E070EF54-AB16-4A0F-8B93-02711F428BE1}|Framework.vcxproj|C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\GameObjects\\PlayerBuilding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E070EF54-AB16-4A0F-8B93-02711F428BE1}|Framework.vcxproj|solutionrelative:GameObjects\\PlayerBuilding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E070EF54-AB16-4A0F-8B93-02711F428BE1}|Framework.vcxproj|C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\Scenes\\TitleScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E070EF54-AB16-4A0F-8B93-02711F428BE1}|Framework.vcxproj|solutionrelative:Scenes\\TitleScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UiHud.h",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\UiHud.h",
+              "RelativeDocumentMoniker": "UiHud.h",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\UiHud.h",
+              "RelativeToolTip": "UiHud.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-07T02:39:12.172Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Framework.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\Framework\\Framework.cpp",
+              "RelativeDocumentMoniker": "Framework\\Framework.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\Framework\\Framework.cpp",
+              "RelativeToolTip": "Framework\\Framework.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T04:13:14.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneGame.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\Scenes\\SceneGame.cpp",
+              "RelativeDocumentMoniker": "Scenes\\SceneGame.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\Scenes\\SceneGame.cpp",
+              "RelativeToolTip": "Scenes\\SceneGame.cpp",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-06T08:42:01.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UiHud.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\UiHud.cpp",
+              "RelativeDocumentMoniker": "UiHud.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\UiHud.cpp",
+              "RelativeToolTip": "UiHud.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T02:41:34.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T03:47:21.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scene.h",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\Scenes\\Scene.h",
+              "RelativeDocumentMoniker": "Scenes\\Scene.h",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\Scenes\\Scene.h",
+              "RelativeToolTip": "Scenes\\Scene.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-07T03:53:23.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerBuilding.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\GameObjects\\PlayerBuilding.cpp",
+              "RelativeDocumentMoniker": "GameObjects\\PlayerBuilding.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\GameObjects\\PlayerBuilding.cpp",
+              "RelativeToolTip": "GameObjects\\PlayerBuilding.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T01:53:40.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TitleScene.cpp",
+              "DocumentMoniker": "C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\Scenes\\TitleScene.cpp",
+              "RelativeDocumentMoniker": "Scenes\\TitleScene.cpp",
+              "ToolTip": "C:\\Users\\KGA\\Desktop\\re - \uBCF5\uC0AC\uBCF8\\Framework\\Scenes\\TitleScene.cpp",
+              "RelativeToolTip": "Scenes\\TitleScene.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAADwv1EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-07T02:00:27.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
