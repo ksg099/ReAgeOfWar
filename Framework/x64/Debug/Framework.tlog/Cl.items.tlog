@@ -1,19 +1,19 @@
-C:\Users\KGA\Desktop\re - 복사본\Framework\GameObjects\Bullet.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\Bullet.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\GameObjects\EnemyBuilding.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\EnemyBuilding.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\Framework\Framework.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\Framework.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\Framework\InputMgr.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\InputMgr.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\Framework\Utils.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\Utils.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\GameObjects\GameObject.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\GameObject.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\main.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\main.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\pch.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\pch.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\GameObjects\PlayerBuilding.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\PlayerBuilding.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\Scenes\SceneGame.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\SceneGame.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\Scenes\Scene.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\Scene.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\Framework\SceneMgr.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\SceneMgr.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\Scenes\SceneDev1.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\SceneDev1.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\Scenes\SceneDev2.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\SceneDev2.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\GameObjects\SpriteGo.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\SpriteGo.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\GameObjects\TextGo.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\TextGo.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\Scenes\TitleScene.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\TitleScene.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\GameObjects\Turret.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\Turret.obj
-C:\Users\KGA\Desktop\re - 복사본\Framework\UiHud.cpp;C:\Users\KGA\Desktop\re - 복사본\Framework\x64\Debug\UiHud.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\GameObjects\Bullet.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\Bullet.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\GameObjects\EnemyBuilding.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\EnemyBuilding.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\Framework\Framework.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\Framework.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\Framework\InputMgr.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\InputMgr.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\Framework\Utils.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\Utils.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\GameObjects\GameObject.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\GameObject.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\main.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\main.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\pch.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\pch.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\GameObjects\PlayerBuilding.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\PlayerBuilding.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\Scenes\SceneGame.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\SceneGame.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\Scenes\Scene.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\Scene.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\Framework\SceneMgr.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\SceneMgr.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\Scenes\SceneDev1.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\SceneDev1.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\Scenes\SceneDev2.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\SceneDev2.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\GameObjects\SpriteGo.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\SpriteGo.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\GameObjects\TextGo.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\TextGo.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\Scenes\TitleScene.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\TitleScene.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\GameObjects\Turret.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\Turret.obj
+C:\Users\KGA\Desktop\ReAgeOfWar\Framework\UiHud.cpp;C:\Users\KGA\Desktop\ReAgeOfWar\Framework\x64\Debug\UiHud.obj
