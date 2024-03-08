@@ -7,6 +7,8 @@ PlayerBuilding::PlayerBuilding(const std::string& name) : SpriteGo(name)
 
 void PlayerBuilding::Init()
 {
+
+
 	SpriteGo::Init();
 
 }

@@ -6,7 +6,7 @@ protected:
 	int maxHp = 500;
 	int hp = 500;
 
-	SpriteGo* playerbuilding;
+	SpriteGo playerbuilding;
 public:
 	PlayerBuilding(const std::string& name = "");
 	~PlayerBuilding() override = default;

@@ -2,6 +2,11 @@
 #include "Framework.h"
 //#include "DataTableMgr.h"
 
+bool Framework::isActive()
+{
+    return false;
+}
+
 void Framework::Init(int width, int height, const std::string& name)
 {
     srand(std::time(NULL));

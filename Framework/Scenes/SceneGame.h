@@ -1,8 +1,17 @@
 #pragma once
 #include "Scene.h"
+#include <fstream>
+#include <iostream>
 #include "pch.h"
+#include "TextGo.h"
+
 
 class SpriteGo;
+class UiHud;
+class PlayerBuilding;
+class EnemyBuilding;
+class Turret;
+
 
 class SceneGame : public Scene
 {
@@ -20,12 +29,28 @@ protected:
 	Status currentStatus;
 	
 
-	/*UiHud* hud;*/
+	UiHud* hud;
 
 	SpriteGo* background;
 	SpriteGo* Playerbuilding;
 	SpriteGo* enemybuilding;
 	SpriteGo* age1Turrent1;
+
+	TextGo* pauseclose;
+
+	sf::RectangleShape pauseshape;
+
+	bool ispause = false;
+
+	int Exp = 0.f;
+	int Money = 175.f;
+
+	float viewMoveSpeed = 350.f;
+	float worldLeft = 0.f;
+	float worldRight = 0.f; 
+	float worldWidth = worldView.getSize().x; //월드 너비
+
+	//sf::Vector2f prevMousPos;
 
 
 public:
@@ -50,6 +75,9 @@ public:
 	void Update(float dt) override;
 	void FixedUpdate(float dt) override;
 	void Draw(sf::RenderWindow& window) override;
+
+	void AddExp(int s);
+	void AddMoney(int s);
 
 };
 

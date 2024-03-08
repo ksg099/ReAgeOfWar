@@ -9,7 +9,7 @@ class TitleScene : public Scene
 
 protected:
 	SpriteGo* titleTexture;
-	//SpriteGo* optionsWindow;
+	SpriteGo* optionsWindow;
 
 	TextGo* titlestart;
 	TextGo* titleoption;
@@ -18,6 +18,8 @@ protected:
 	
 	sf::Vector2f viewSize;
 	sf::Vector2f textureCenter;
+
+	sf::RectangleShape optionsShape;
 
 public:
 	TitleScene(SceneIds id);

@@ -12,9 +12,9 @@ protected:
 	TextGo textExp;
 	TextGo textMoney;
 
-	SpriteGo* spawnMenu; //필살기랑 유닛 터렛 업그레이드 하는 ui부분
-	SpriteGo* spawnUnit; //유닛 하는 ui부분
-	SpriteGo* spawnTurrent; //터렛 하는 ui부분
+	SpriteGo spawnMenu; //필살기랑 유닛 터렛 업그레이드 하는 ui부분
+	SpriteGo spawnUnit; //유닛 하는 ui부분
+	SpriteGo spawnTurrent; //터렛 하는 ui부분
 
 	//SpriteGo* moneyExp; //현재 재화와 경험치를 보여주는 ui부분
 
@@ -22,9 +22,9 @@ protected:
 
 	//sf::Vector2f PlayerHpSize 체력 ui는 ui뷰가 아니라 월드 뷰인데 여기에 써야하나
 	//sf::Vector2f EnemyHpSize 
-
+	float textSize = 50.f;
 	int ExpCount = 0.f;
-	int MoneyCount = 175;
+	int MoneyCount = 0.f;
 
 public:
 
